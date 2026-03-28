@@ -9,4 +9,4 @@ A simple and responsive Rock Paper Scissors game built with HTML, CSS, and JavaS
 - Responsive design
 
 ## Live Demo
-👉 https://rohitdutta-dev.github.io/rock-paper-scissors/
+👉 https://rohitdutta-dev.github.io/Rock-Paper-Scissors/
